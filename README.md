@@ -9,7 +9,7 @@ Highlight.js 是用JavaScript编写的代码高亮显示类库。它在浏览器
 ## 如何使用
 
 ```html
-<link rel="stylesheet" href="/path/to/styles/default.css">
+<link rel="stylesheet" href="/styles/default.css">
 <script src="/path/to/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 ```
@@ -40,9 +40,9 @@ $(document).ready(function() {
 
 ## 相关
 
-官网<https://highlightjs.org/>.
+官网 <https://highlightjs.org/>.
 
-接口<http://highlightjs.readthedocs.io/>.
+接口 <http://highlightjs.readthedocs.io/>.
 
-样式<https://highlightjs.org/static/demo/>.
+样式 <https://highlightjs.org/static/demo/>.
 
