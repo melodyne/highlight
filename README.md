@@ -40,11 +40,9 @@ $(document).ready(function() {
 
 ## 相关
 
-官网 <https://highlightjs.org/>.
+官网<https://highlightjs.org/>.
 
-接口
-<http://highlightjs.readthedocs.io/>.
+接口<http://highlightjs.readthedocs.io/>.
 
-样式
-<https://highlightjs.org/static/demo/>.
+样式<https://highlightjs.org/static/demo/>.
 
