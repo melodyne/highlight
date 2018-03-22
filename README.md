@@ -5,7 +5,7 @@
 Highlight.js 是用JavaScript编写的语法高亮显示。它在浏览器和服务器上都能工作。它几乎适用于任何标记，不依赖于任何框架，并且具有自动语言检测功能。
 
 ![效果](https://github.com/melodyne/highlight/blob/master/demo.png?raw=true)
-
+    
 ## 如何使用
 
 ```html
