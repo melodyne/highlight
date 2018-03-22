@@ -11,6 +11,7 @@ Highlight.js 是用JavaScript编写的代码高亮显示类库。它在浏览器
 ```html
 // 这里如果要换成其他主题样式，请更换default.css样式文件！
 // 例如：换成dark.css，确保styles下有该文件，具体的样式效果，请查看 https://highlightjs.org/static/demo
+
 <link rel="stylesheet" href="/styles/default.css">
 
 <script src="/path/to/highlight.pack.js"></script>
